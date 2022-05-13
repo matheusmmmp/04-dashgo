@@ -39,11 +39,11 @@ Essa é uma aplicação desenvolvida durante a jornada de estudos na RocketSea
 ## Interface da Aplicação
 
 <h1 align="center">
-  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/168389127-75450b8a-34ae-4b70-adb0-6b09a59adf69.PNG" style="width: 359px;" />
-  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/168389125-c592d353-2f71-44f6-a4fe-8247ae3af2d5.PNG" style="width: 320px;" />
+  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/168389127-75450b8a-34ae-4b70-adb0-6b09a59adf69.PNG" style="width: 531px;" />
+  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/168389125-c592d353-2f71-44f6-a4fe-8247ae3af2d5.PNG" style="width: 534px;" />
 
-  <img alt="Imagem Demonstrativa 3" title="#Img3" src="https://user-images.githubusercontent.com/33897566/168389129-1b56ea45-d7d0-4f6a-b1cf-c098f2b180b8.PNG" style="width: 359px;" />
-  <img alt="Imagem Demonstrativa 4" title="#Img4" src="https://user-images.githubusercontent.com/33897566/168389130-080d7b45-b12b-40d8-8bcb-8b9db058b822.PNG" style="width: 320px;" />
+  <img alt="Imagem Demonstrativa 3" title="#Img3" src="https://user-images.githubusercontent.com/33897566/168389129-1b56ea45-d7d0-4f6a-b1cf-c098f2b180b8.PNG" style="width: 534px;" />
+  <img alt="Imagem Demonstrativa 4" title="#Img4" src="https://user-images.githubusercontent.com/33897566/168389130-080d7b45-b12b-40d8-8bcb-8b9db058b822.PNG" style="width: 532px;" />
 </h1>
 
 
