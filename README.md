@@ -38,12 +38,14 @@ Essa é uma aplicação desenvolvida durante a jornada de estudos na RocketSea
 ---
 ## Interface da Aplicação
 
-O desafio contava com a obrigatoriedade de implementar a interface a partir de um layout disponibilizado no Figma.
-
 <h1 align="center">
-  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/167714301-d049571f-b120-4aab-b16a-f44f494a979e.PNG" style="width: 359px;" />
-  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/167714310-9b59fa48-6a40-46d2-9ac4-a04d5c00ec26.PNG" style="width: 320px;" />
+  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/168389127-75450b8a-34ae-4b70-adb0-6b09a59adf69.PNG" style="width: 359px;" />
+  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/168389125-c592d353-2f71-44f6-a4fe-8247ae3af2d5.PNG" style="width: 320px;" />
+
+  <img alt="Imagem Demonstrativa 3" title="#Img3" src="https://user-images.githubusercontent.com/33897566/168389129-1b56ea45-d7d0-4f6a-b1cf-c098f2b180b8.PNG" style="width: 359px;" />
+  <img alt="Imagem Demonstrativa 4" title="#Img4" src="https://user-images.githubusercontent.com/33897566/168389130-080d7b45-b12b-40d8-8bcb-8b9db058b822.PNG" style="width: 320px;" />
 </h1>
+
 
 ---
 ## 🚀Como executar o projeto 
@@ -82,10 +84,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [React](https://pt-br.reactjs.org/)
 -   [Next](https://nextjs.org/)
 -   [TypeScript](https://www.typescriptlang.org/)
--   [Prismic](https://prismic.io/);
--   [Figma](https://www.figma.com/);
--   [Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch);
--   [React-icons](https://react-icons.github.io/react-icons/);
+-   [ApexCharts](https://apexcharts.com/docs/react-charts/#);
+-   [MirageJs](https://miragejs.com/docs/getting-started/introduction/);
+-   [Faker](https://fakerjs.dev/guide/#environments);
 -   [Date-fns](https://date-fns.org/docs/Getting-Started);
 ---
 
