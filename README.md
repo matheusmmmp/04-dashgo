@@ -29,7 +29,7 @@ Essa é uma aplicação desenvolvida durante a jornada de estudos na RocketSea
 
 ## ⚙Funcionalidades
 
-- [x]  Listagem de Usuários atravrés do `miragejs`;
+- [x]  Listagem de usuários atravrés do `miragejs`;
 - [x]  Validação de Formulários;
 - [x]  Paginação de Listas;
 - [x]  Graficos com `apexcharts`;
